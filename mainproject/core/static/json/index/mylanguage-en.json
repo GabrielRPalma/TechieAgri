@@ -1,0 +1,16 @@
+{
+    "App_name": "SAIP - System of agriculture insect pests recognition",
+    "App_caption": "System of agriculture insect pests recognition (SAIP) use an interdisciplinary approach to assist in the process of identifying agricultural pest insects, to obtain management information and ways to control target pests.",
+    "App_como": "HOW?",
+    "Card1": "Deep Learning",
+    "Card1_caption": "We created algorithms that aim to classify the insect pest it has been causing using its morphological characteristics.",
+    "Card2": "Statistics",
+    "Card2_caption": "We search for morphological patterns through a large set of images of insect pests found in different cultures to optimize our recognition.",
+    "Card3": "Artificial inteligence",
+    "Card3_caption": "We learned from sets of images collected in order to optimize the classification of insects and thus be able to bring quality information about the pest found.",
+    "App_partners":"Our partners",
+    "App_thanks":"appreciate",
+    "App_team": "Our team", 
+    "App_start": "Pest identification",
+    "App_start_button":"START"
+}

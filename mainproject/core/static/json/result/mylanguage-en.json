@@ -1,0 +1,18 @@
+{
+    "App_name": "SII - System of insect outbreak identification",
+    "Alert": "We detect a possible outbreak through your data set.",
+    "No_Alert": "We have not detected a possible outbreak through your data set.",
+    "result": "Result",
+    "details": "What brought us to this result?",
+    "Data_caption_add": "Add your data",
+    "card_caption": "Remember to standardize your excel spreadsheet with the example above.",
+    "form_name": "Analyzed pest",
+    "form_local": "Your location",
+    "terms": "Agree to terms and conditions",
+    "terms_details": "You mest agree before submiting.",
+    "terms_button": "Submit"
+
+
+
+    
+}

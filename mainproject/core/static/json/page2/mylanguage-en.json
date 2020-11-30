@@ -1,0 +1,12 @@
+{
+    "App_name": "SII - System of insect outbreak identification",
+    "Pred": "Prediction",
+    "Pred_deccription": "In order for us to carry out the prediction it is necessary that you select the level of economic damage that you want to avoid and select the last 5 samples of the number of individuals of the pest in question. We will carry out our analyzes and bring you some important information for your decision making.", 
+    "Pred_data": "Add your data",
+    "Pred_start": "Performing the prediction",
+    "Pred_threshold": "Economic damage level",
+    "Pred_sample": "5 samples value"
+
+
+    
+}

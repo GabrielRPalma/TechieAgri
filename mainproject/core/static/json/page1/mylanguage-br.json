@@ -1,0 +1,19 @@
+{
+    "App_name": "SISP - Sistema de Identificação de Surtos de Pragas",
+    "Data": "Dados",
+    "Data_caption": "O conjunto de dados que deve ser adicionado para a realização de predição deve conter o número de pragas encontradas em cada coleta efetuada no plano de monitoramento. ",
+    "Data_file": "Exemplo",
+    "Data_caption_example": "Exemplo de como o arquivo excel deve ser organizado para a aplicação em nosso sistema.",
+    "Data_caption_add": "Adicione os seus dados",
+    "card_caption": "Lembre-se de padronizar a sua planilha excel com o exemplo acima.",
+    "form_name": "Praga avaliada",
+    "form_local": "Localização",
+    "terms": "Concorda com os termos e condições",
+    "terms_details": "Você deve concordar antes de enviar.",
+    "terms_button": "Enviar"
+
+
+
+   
+   
+}

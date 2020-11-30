@@ -1,0 +1,14 @@
+{
+    "App_name": "SIPA - Sistema de Identificação Pragas Agricolas",
+    "Pred": "Predição",
+    "Pred_deccription": "Para que nós possamos realizar a predição é necessário que você selecione o nível de dano econômico o qual você deseja evitar e selecionar as ultimas 5 amostras do número de indivíduos da praga em questão. Realizaremos as nossas análizes e traremos algumas informaçõe importantes para sua tomada de decisão.", 
+    "Pred_data": "Adicione a foto do inseto encontrado",
+    "Pred_start": "Realizando a predição",
+    "Pred_threshold": "Nivel de dano econômico",
+    "Pred_sample": "Valor de 5 amostras"
+
+
+
+   
+   
+}

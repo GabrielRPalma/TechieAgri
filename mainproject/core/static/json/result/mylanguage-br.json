@@ -1,0 +1,19 @@
+{
+    "App_name": "SISP - Sistema de Identificação de Surtos de Pragas",
+    "Alert": "Detectamos um possível surto através do seu conjunto de dados",
+    "No_Alert": "Não detectamos um possível surto através do seu conjunto de dados. ",
+    "result": "Resultado",
+    "details": "Exemplo de como o arquivo excel deve ser organizado para a aplicação em nosso sistema.",
+    "Data_caption_add": "Adicione os seus dados",
+    "card_caption": "Lembre-se de padronizar a sua planilha excel com o exemplo acima.",
+    "form_name": "Praga avaliada",
+    "form_local": "Localização",
+    "terms": "Agree to terms and conditions",
+    "terms_details": "you mest agree before submiting.",
+    "terms_button": "Submit"
+
+
+
+   
+   
+}

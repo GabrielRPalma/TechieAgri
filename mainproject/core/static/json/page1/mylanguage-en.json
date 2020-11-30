@@ -1,0 +1,18 @@
+{
+    "App_name": "SII - System of insect outbreak identification",
+    "Data": "Data",
+    "Data_caption": "The data set that must be added to perform the prediction must contain the number of pests found in each collection made in the monitoring plan.",
+    "Data_file": "Example",
+    "Data_caption_example": "Example of how the excel file should be organized for the application in our system.",
+    "Data_caption_add": "Add your data",
+    "card_caption": "Remember to standardize your excel spreadsheet with the example above.",
+    "form_name": "Analyzed pest",
+    "form_local": "Your location",
+    "terms": "Agree to terms and conditions",
+    "terms_details": "You mest agree before submiting.",
+    "terms_button": "Submit"
+
+
+
+    
+}

@@ -1,0 +1,17 @@
+{
+    "App_name": "SIPA - Sistema de Identificação Pragas Agricolas",
+    "App_caption": "Sistema de Identificação de Pragas Agricolas (SIPA) utiliza uma abordagem interdisciplinar para auxiliar no processo de identificação de insetos pragas agrícolas a fim de trazer informações de manejo e formas de controle da praga alvo.",
+    "App_como": "COMO?",
+    "Card1": "Deep Learning",
+    "Card1_caption": "Criamos algoritmos que visam classificar o inseto praga que vem causando utilizando suas característica morfológicas.",
+    "Card2": "Estatística",
+    "Card2_caption": "Buscamos padões morfolágicos através de um grande conjunto de imagens de insetos pragas encontrados em diferentes culturas a fim de melhorar a identificação.",
+    "Card3": "Inteligência artificial",
+    "Card3_caption": "Nós aprendemos com conjuntos de imagens coletadas a fim de otimizar a classificação dos insetos e assim poder trazer informações de qualidade a respeito da praga encontrada.",
+    "App_partners":"Nossos Parceiros",
+    "App_thanks":"Agradecemos",
+    "App_team": "Nossa Equipe", 
+    "App_start": "Identificar a praga",
+    "App_start_button":"INICIAR"
+   
+}
